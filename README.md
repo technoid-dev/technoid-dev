@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hi, I'm Aditya
 
-<!--
-**technoid-dev/technoid-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Developer | Linux Power User | Open Source Learner  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+- 💻 Passionate about Linux, terminals, and clean workflows
+- 🌱 Currently learning **Web Development & Programming along with Cybersecurity**
+- 🛠️ Love building things from scratch
+- 🎯 Goal: Build skills → Projects → Income
+
+---
+
+## 🔧 Tech Stack
+- **OS:** Linux
+- **Languages:** HTML, CSS, JavaScript (learning)
+- **Tools:** Git, GitHub, VS Code, Terminal (Zsh) and many more
+
+---
+
+## 📌 Projects
+🚧 Coming soon… (building awesome stuff)
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/Technoid-dev
+
+---
+
+⭐ *This profile will evolve as I grow.*
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+   
+  
+
